@@ -3,7 +3,7 @@ package org.itacademy.javatesting.junit;
 import org.junit.*;
 import static org.junit.Assert.*;
 
-public class MainClassTest {
+public class MesesTest {
 
     static Meses meses;
 
